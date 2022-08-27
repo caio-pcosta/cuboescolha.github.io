@@ -1,0 +1,2 @@
+# cuboescolha.github.io
+cubo
